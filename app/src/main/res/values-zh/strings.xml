@@ -1,0 +1,5 @@
+
+<resources>
+    <string name="timepicker_title">犯罪时间</string>
+    <string name="time_picker">选择时间</string>
+</resources>

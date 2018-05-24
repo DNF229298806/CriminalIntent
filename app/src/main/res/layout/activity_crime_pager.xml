@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent">
+    <FrameLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <Button
+            android:id="@+id/bt_to_first"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Jump To First"/>
+        <Button
+            android:id="@+id/bt_to_last"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Jump To Last"/>
+    </FrameLayout>
+</LinearLayout>-->
+
+<android.support.v4.view.ViewPager
+    android:id="@+id/vp_activity_crime_pager"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+</android.support.v4.view.ViewPager>
